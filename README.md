@@ -1,4 +1,4 @@
 # jenkins-redone
 
 #checking its working
-checking url
+checking again ssh this time
