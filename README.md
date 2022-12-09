@@ -1,4 +1,4 @@
 # jenkins-redone
 
 #checking its working
-check working after chown and chmod
+cheking after changing ip add to nfs
