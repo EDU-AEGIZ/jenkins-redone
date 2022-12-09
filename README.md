@@ -1,4 +1,4 @@
 # jenkins-redone
 
 #checking its working
-checking ssh after moses
+check working after chown and chmod
